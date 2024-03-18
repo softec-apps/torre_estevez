@@ -39,14 +39,12 @@
       <div>
         <div class="col-xs-8">
           <div class="checkbox icheck">
-            <label>
-              <input type="checkbox">
-              Remember Me </label>
-            <a href="pages-recover-password.html" class="pull-right"><i class="fa fa-lock"></i> Forgot pwd?</a> </div>
+
+              <input type="hidden">
         </div>
         <!-- /.col -->
         <div class="col-xs-4 m-t-1">
-          <button type="submit" class="btn btn-primary btn-block btn-flat">Sign In</button>
+          <button type="submit" class="btn btn-primary btn-block btn-flat">INGRESAR AL SISTEMA TME</button>
         </div>
         <!-- /.col --> 
       </div>
